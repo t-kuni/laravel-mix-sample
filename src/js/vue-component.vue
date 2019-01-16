@@ -14,8 +14,10 @@
     }
 </script>
 
-<style type="scss" scoped>
+<style type="scss">
+    @import '../_variables.scss';
+
     .root {
-        background: grey;
+        background-color: $test;
     }
 </style>
