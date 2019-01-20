@@ -14,10 +14,10 @@
     }
 </script>
 
-<style type="scss">
+<style lang="scss">
     @import '../_variables.scss';
 
     .root {
-        background-color: $test;
+        color: $test;
     }
 </style>
